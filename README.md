@@ -103,17 +103,6 @@ personal development.
 
 ------------------------------------------------------------------------
 
-### 🎬 ASTRO 7.0 Creative Project
-
-A multimedia and digital promotion project involving website
-development, graphic design, promotional videos, motion graphics, and
-social media content.
-
-**Tools:** Figma • Adobe Illustrator • Adobe Photoshop • Adobe After
-Effects • Adobe Premiere Pro
-
-------------------------------------------------------------------------
-
 ## 📊 GitHub Stats
 
 ![Ahmad Fadli's GitHub
