@@ -115,9 +115,9 @@ Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmfaa
 
 ## 📫 Let's Connect
 
--   💼 **LinkedIn:** \https://www.linkedin.com/in/ahmad-fadli-64633a244/
+-   💼 **LinkedIn:** https://www.linkedin.com/in/ahmad-fadli-64633a244/
 -   🌐 **Portfolio:** \[\]
--   📧 **Email:** \ahmadfaadli05@gmail.com
+-   📧 **Email:** ahmadfaadli05@gmail.com
 
 ------------------------------------------------------------------------
 
